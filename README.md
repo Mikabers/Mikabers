@@ -8,7 +8,6 @@ Sou Front-End Developer. :computer:
 
  👨‍💻 &nbsp; Atualmente estou aprimorando minhas habilidades em HTML, CSS e JavaScript.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js e Angular.
  <br/> 💬  &nbsp; Sobre mim: Amante de música pop coreana, curto tecnologias, games como GTA V, CS:GO, LoL, Valorant e seriados na Netflix.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Mikael_Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikael-bernardo/)](https://www.linkedin.com/in/mikael-bernardo/) 
 | 
