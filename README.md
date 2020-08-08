@@ -3,8 +3,6 @@
 # Mikael "Mike" Bernardo
 
 ## Hey Guys 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou Front-End Developer. :computer:
 
  👨‍💻 &nbsp; Atualmente estou aprimorando minhas habilidades em HTML, CSS e JavaScript.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
