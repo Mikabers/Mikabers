@@ -1,12 +1,14 @@
-<div align="center">
+# Mikael "Mike" Bernardo :man_technologist:
 
-# Mikael "Mike" Bernardo
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/mikael-bernardo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:mikaelbernardofs@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_mikabers/)
 
-## Hey Guys 👋
+# Hey guys! 👋 Welcome to my profile.
 
- 👨‍💻 &nbsp; Atualmente estou aprimorando minhas habilidades em HTML, CSS e JavaScript.
- <br/> 🆘 Tenho um pouco de experiência com React e Angular, então, qualquer ajuda sobre eu irei aceitar na mesma hora 😁.  
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
- <br/> 💬  &nbsp; Sobre mim: Amante de música pop coreana, curto tecnologias, games como GTA V, CS:GO, LoL, Valorant e seriados na Netflix.
- <br/> [![Linkedin Badge](https://img.shields.io/badge/-Mikael_Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikael-bernardo/)](https://www.linkedin.com/in/mikael-bernardo/) | [![Gmail Badge](https://img.shields.io/badge/-mikaelbernardofs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikaelbernardofs@gmail.com)](mailto:mikaelbernardofs@gmail.com)
-</div>
+My name is Mikael Bernardo, and I'm a front-end developer.
+ 
+- 😄 I really like to learn
+- 😍 In love with HTML, CSS and JavaSript
+- 🐍 Currently learning Python and Java
+- 🎨 Also UI Design
