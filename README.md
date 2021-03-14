@@ -9,6 +9,6 @@
 My name is Mikael Bernardo, and I'm a front-end developer.
  
 - 😄 I really like to learn
-- 😍 In love with HTML, CSS and JavaSript
+- 😍 In love with HTML, CSS and JavaScript
 - 🐍 Currently learning Python and Java
 - 🎨 Also UI Design
