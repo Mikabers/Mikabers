@@ -14,9 +14,4 @@
 
 🚀 Eu realmente estou animado para me conectar com colegas de programação, compartilhar conhecimento e crescer como desenvolvedor. Se você também está no mundo do desenvolvimento front-end e quiser trocar ideias, não hesite em entrar em contato. Vamos aprender juntos!
 
-📫 Como me encontrar:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/mikael-bernardo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:mikaelbernardofs@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_mikabers/)
-
 🌐 Obrigado por visitar meu GitHub. Vamos construir coisas incríveis juntos!
